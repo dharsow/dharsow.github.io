@@ -1,0 +1,80 @@
+.title-menu{
+    display: flex;
+    margin-top: 8px;
+    background-color: teal !important;
+    background-size: cover;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.full-list{
+    display: flex;
+    background-color: teal !important;
+    justify-content: space-between;
+}
+
+.list-element{
+    display: flex;
+    font-size: 0.87em;
+    justify-content: center;
+    padding-top: 20px;
+    background-color: teal !important;
+    padding-right: 32px;
+}
+
+.title-menu-left{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: teal !important;
+    float: left;
+}
+
+.title-menu-right{
+    display: flex;
+    background-color: teal;
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.banner{
+    background-color: teal;
+    text-align: center;
+    height: 75%;
+    margin-bottom: auto;
+}
+
+.logo-name{
+    font-size: 50px;
+    padding-top: 250px;
+    background-color: teal;
+    background-size: cover;
+    margin-bottom: 4px;
+}
+
+.logo-sub-name{
+    margin-bottom: 4px;
+    background-color: teal;
+    background-size: cover;
+}
+
+.button-id{
+    background-color: pink;
+}
+
+.content{
+    text-align: center;
+    justify-items: center;
+}
+
+.content-title{
+    font-size: 40px !important;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.content-subtitle{
+    font-size: 30px;
+    padding-top: 20px;
+}
